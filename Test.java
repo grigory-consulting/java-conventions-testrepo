@@ -1,10 +1,10 @@
-public class Test {
+public class test {
 
-    private String name;
+    private String Name;
     private int Alter;
     private double kontoStand;
 
-    public Test(String name, int alter) {
+    public test(String name, int alter) {
         this.name = name;
         this.Alter = alter;
     }
